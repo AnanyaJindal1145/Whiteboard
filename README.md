@@ -1,4 +1,7 @@
 <h1 align="center"> PlanIt </a> </h1> <h4 align="center"> PlanIt is a real-time collaborative drawing platform powered by React, Vite, Express, and Socket.IO—perfect for crafting diagrams, sketches, and illustrations with others.
+<br><br>
+
+![image](https://github.com/user-attachments/assets/c0ece8d4-d662-4023-abeb-139ec938f38e)
 
 ## Key Features
 Live Collaboration: Work together with others on the same canvas in real time through WebSocket-powered synchronization.
