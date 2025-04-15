@@ -1,3 +1,0 @@
-
-//make whiteboard basic
-fwjfasfj
